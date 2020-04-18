@@ -1,0 +1,16 @@
+[[porta]]
+arch = "i686"
+git-tree-sha1 = "b9d3b83bafe4d2c1506a6a3e69884fc8fc4fc55f"
+os = "windows"
+
+    [[porta.download]]
+    sha256 = "b37a3e44c7029cb8d85c59297c717ed19739c95cc93d43d31407a864ab710feb"
+    url = "https://github.com/bdoolittle/porta_win_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.i686-w64-mingw32.tar.gz"
+[[porta]]
+arch = "x86_64"
+git-tree-sha1 = "5b15563aaa790af7965163c9b4d6e1610e01f05d"
+os = "windows"
+
+    [[porta.download]]
+    sha256 = "3eb39915b927b0875ce9a09125e5c34c68f07e417bc9100f3c3d05704c044710"
+    url = "https://github.com/bdoolittle/porta_win_jll/releases/download/porta-v1.4.1+0/porta.v1.4.1.x86_64-w64-mingw32.tar.gz"
